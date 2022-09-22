@@ -107,7 +107,6 @@ int main(void)
   		  break ;
   	  case 8:
   		  display7SEG(3);
-  		  HAL_Delay(500);
   		  counter--;
   		  break;
   	  case 7:
